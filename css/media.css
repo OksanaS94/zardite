@@ -3,6 +3,11 @@
 /* Large Devices, Wide Screens */
 @media only screen and (max-width : 1200px) {
     /**/
+    .splaton-image-section .image-block img {
+        position: absolute;
+        bottom: 15%;
+        right: 10%;
+    }
 }
 
 
